@@ -1,6 +1,9 @@
 //
 // Created by Komoribi on 2025/10/25.
 //
+/**
+ * @brief Point类的声明
+ */
 
 #ifndef CLION_CPP_PROJECT_POINT_H
 #define CLION_CPP_PROJECT_POINT_H

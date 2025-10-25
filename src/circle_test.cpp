@@ -49,4 +49,6 @@ int main(int argc, char *argv[]) {
 
     Is_on_circle(c1, p1);
 
+    system("pause");
+
 }
